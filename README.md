@@ -1,8 +1,8 @@
 <div align="center">
 
-<!-- ========================================== -->
-<!-- 1. TERMINAL HEADER & ASCII GLOBE HERO     -->
-<!-- ========================================== -->
+<!-- ======================================================== -->
+<!-- 1. MATRIX TERMINAL HEADER & ANIMATED CODE RAIN HERO      -->
+<!-- ======================================================== -->
 
 <a href="https://github.com/Ajeet3301">
   <img src="./terminal.svg" alt="Ajeet3301 Terminal Interface" width="100%" />
