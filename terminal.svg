@@ -156,11 +156,11 @@
   </g>
 
   <!-- 6. Cyber Telemetry Overlay & HUD -->
-  <text x="36" y="70" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9" fill="#00ff41" opacity="0.85" letter-spacing="1">▶ MATRIX_CORE: OPERATIONAL</text>
-  <text x="494" y="70" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9" fill="#00ff41" opacity="0.85" letter-spacing="1">SYS_ID: #3301 ◉</text>
+  <text x="36" y="70" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9" fill="#00ff41" opacity="0.85" letter-spacing="1">▶@ajeet</text>
+  <text x="494" y="70" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9" fill="#00ff41" opacity="0.85" letter-spacing="1"></text>
   
-  <text x="36" y="522" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="8.5" fill="#00e650" opacity="0.75" letter-spacing="0.5">NEURAL_DECODE: SYNCHRONIZED</text>
-  <text x="494" y="522" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="8.5" fill="#00e650" opacity="0.75" letter-spacing="0.5">FPS: 60.0 // ENCR: AES-256</text>
+  <text x="36" y="522" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="8.5" fill="#00e650" opacity="0.75" letter-spacing="0.5"></text>
+  <text x="494" y="522" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="8.5" fill="#00e650" opacity="0.75" letter-spacing="0.5"></text>
 </g>
 
 <!-- Tech Frame Brackets -->
