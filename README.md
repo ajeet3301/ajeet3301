@@ -263,8 +263,7 @@ TODO: uncomment each badge after replacing the placeholder with your real link.
 <div align="center">
 
 ```text
-+-----------------------------------------------------------------------+
-|  [SYS_STATUS]: ALL NODES NOMINAL  ::  KERNEL: 6.11.x-zen  ::  TTY: 0  |
++-----------------------------------------------------------------------+ |
 |  "Stay hungry, stay foolish, and optimize your loss functions."       |
 +-----------------------------------------------------------------------+
 ```
