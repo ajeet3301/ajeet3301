@@ -70,8 +70,7 @@
 
 ```yaml
 # SYSTEM ENVIRONMENT
-OS          : Arch Linux / macOS / POSIX
-Shell       : zsh 5.9
+OS          : Windows / macOS / 
 Editor      : Neovim / VS Code (Tokyo Night)
 Terminal    : Alacritty / Ghostty
 Uptime      : 2nd Year B.Tech CSE
