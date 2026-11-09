@@ -71,7 +71,6 @@
 # SYSTEM ENVIRONMENT
 OS          : Windows / macOS / 
 Editor      : Neovim / VS Code (Tokyo Night)
-Terminal    : Alacritty / Ghostty
 Uptime      : 2nd Year B.Tech CSE
 Workstation : Research & Engineering Rig
 Status      : Active ● Compiling ideas
