@@ -52,7 +52,6 @@
     "Open Source Ecosystem",
     "High-Performance Software",
     "Automation & Tooling",
-    "Tech Startups"
   ],
   "mission": "Engineering intelligent algorithms and scalable software systems from first principles."
 }
